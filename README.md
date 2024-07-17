@@ -8,7 +8,7 @@ Hi there! I'm **Dain Kim**, a rising Junior majoring in **Computational Sciences
 - **CSS**
 - **JavaScript**
 
-- (Want to learn) C++ and C# 
+- (learning) C++ and C# for game dev 😎
 
 ### 🌟 Interests:
 - **Cetacean Communication Interpretation with ML**
