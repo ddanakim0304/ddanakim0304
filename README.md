@@ -1,6 +1,6 @@
 ## Exploring 🐋🌊
 
-Hi there! I'm **Dain Kim**, a rising Junior majoring in **Computational Sciences (CS & AI)** at **Minerva University**, with the unique experience of living and learning in 7 international cities over four years.
+Hi there! I'm **Dain Kim**, a rising Junior majoring in **Computational Sciences (CS & AI)** at **Minerva University**, living and learning in 7 international cities over four years.
 
 ### 💻 Languages I Can Do:
 - **Python**
