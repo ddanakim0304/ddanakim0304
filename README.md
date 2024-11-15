@@ -1,6 +1,7 @@
-## Exploring 🐋🌊
+## Exploring 🐋🌊 [https://dain-kim.com/)
 
 Hi there! I'm **Dain Kim**, a rising Junior majoring in **Computational Sciences (CS & AI)** at **Minerva University**.
+
 
 ### 🌟 These are my some of interests:
 - **Cetacean Communication Interpretation with ML**
