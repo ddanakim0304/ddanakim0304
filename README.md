@@ -1,5 +1,5 @@
 ## Exploring 🐋🌊 
-### [https://dain-kim.com/]
+### [https://dain-kim.com/](https://dain-kim.com/)
 Hi there! I'm **Dain Kim**, a rising Junior majoring in **Computational Sciences (CS & AI)** at **Minerva University**.
 
 
