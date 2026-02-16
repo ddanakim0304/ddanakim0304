@@ -1,8 +1,8 @@
 ## Exploring 🐋🌊 
 ### [https://dain-kim.com/](https://dain-kim.com/)
-Hi there! I'm **Dain Kim**, a rising Junior majoring in **Computational Sciences (CS & AI)** at **Minerva University**.
+Hi there! I'm **Dain Kim**, a Senior majoring in **Computational Sciences (CS & AI)** at **Minerva University**.
 
-I enjoy developing some creative stuffs 😉
+I enjoy developing games 😉
 
 ### 📫 How to Reach Me:
 - **Email:** [kim@uni.minerva.edu](mailto:kim@uni.minerva.edu)
